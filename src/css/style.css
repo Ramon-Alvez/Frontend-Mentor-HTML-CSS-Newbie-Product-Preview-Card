@@ -17,21 +17,24 @@ body{
     color: var(--FontColor);
 }
 
-.card .productImage{
-    width: 50%;
+.card 
+    .productImage{
+        width: 50%;
 }
 
-.card .productImage img{
-    width: 100%;
-    height: 100%;
-    border-radius: 10px 0 0 10px;
+.card 
+    .productImage img{
+        width: 100%;
+        height: 100%;
+        border-radius: 10px 0 0 10px;
 }
 
-.card .productDescription{
-    width: 50%;
-    padding: 35px;
-    display: flex;
-    flex-direction: column;
+.card 
+    .productDescription{
+        width: 50%;
+        padding: 35px;
+        display: flex;
+        flex-direction: column;
 }
 
 .header 
@@ -45,6 +48,7 @@ body{
 .header 
     .productType a{
         text-decoration: none;
+        color: var(--FontColor);
 }
 
 .header 
