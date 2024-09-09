@@ -41,7 +41,7 @@ Users should be able to:
 ### Links 🚀
 
 - Solution URL: [https://www.frontendmentor.io/solutions/-html5-e-css-5-newbie-product-preview-card-component-QxrJu793kS]
-- Live Site URL: [https://ramon-alvez.github.io/product-preview-card-component-main/]
+- Live Site URL: [https://ramon-alvez.github.io/Frontend-Mentor-HTML-CSS-Newbie-Product-Preview-Card/]
 
 ## My process 💻
 
